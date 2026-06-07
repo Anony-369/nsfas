@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>TechStoreApplication</RootNamespace>
+    <AssemblyName>TechStoreApplication</AssemblyName>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <StartupObject>TechStoreApplication.Program</StartupObject>
+    <LangVersion>17</LangVersion>
+  </PropertyGroup>
+</Project>
